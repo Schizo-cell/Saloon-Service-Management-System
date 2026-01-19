@@ -2,11 +2,9 @@
 
 A comprehensive web-based salon management system built with HTML, CSS, JavaScript, PHP, and MySQL.
 
-## 👥 Group 31 - Team Members
-- **[Your Name]** - [Your Student ID]
-- **[Mate 1 Name]** - [Student ID]
-- **[Mate 2 Name]** - [Student ID]  
-- **[Mate 3 Name]** - [Student ID]
+## 👥 Group 16 - Team Members
+- **Ahnaf Aman Auvrow** - 22-48920-3
+- **Susanta Roy Emon ** - 22-49558-3
 
 ## 🎯 Project Overview
 Complete salon management solution for handling customer appointments, service management, staff coordination, and administrative operations.
@@ -169,4 +167,4 @@ Special thanks to our course instructor for guidance and support throughout the 
 
 ---
 
-**Developed with ❤️ by Group 16-Ahnaf & Shushanto**
+**Developed by Group 16-Ahnaf & Shushanto**
