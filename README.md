@@ -153,10 +153,10 @@ Password: password
 - Role-based access control
 
 ## 🎓 Academic Information
-- **Course**: [Your Course Name & Code]
-- **Instructor**: [Sir's Name]
-- **Institution**: [University/College Name]
-- **Semester**: Spring 2026
+- **Course**: Web Technologies
+- **Instructor**: Sultanul Arifeen Hamim
+- **Institution**: American International University-Bangladesh
+- **Semester**: Fall 2025-26
 - **Submission Date**: January 2026
 
 ## 📝 License
